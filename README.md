@@ -7,11 +7,11 @@
 - 🥅 Obiettivi 2020: Contribuire a più progetti Open Source
 - ⚡ Fun fact: Amo ascoltare musica e suonare!
 
-### Spotify Playing 🎧
+### In riproduzione su Spotify 🎧
 
 [<img src="https://spotify-now-playing-bice.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/s2m3dankwvuxft3ipxlcrt9p3)
 
-### Connect with me:
+### Contatti:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -68,7 +68,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asarro99&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pranjaljain0.pranjaljain0)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=asarro99.asarro99)
 
 [twitter]: https://twitter.com/asarro99
 [youtube]: https://www.youtube.com/channel/UC9k0oEIzhkgULY1mkcJRCyA
