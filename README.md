@@ -21,12 +21,18 @@
 
 ## 🔧 Tecnologie e Tools
 
+### Linguaggi
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C](https://img.shields.io/badge/-C-%A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=ffffff)
+
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ### Frameworks
 
@@ -36,7 +42,8 @@
 
 ### Mobile
 
-![Android](https://img.shields.io/badge/-android-1d1d1d?style=flat-square&logo=android)
+![Android](https://img.shields.io/badge/-Android-1d1d1d?style=flat-square&logo=android)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 
 ### Design
 
@@ -56,8 +63,8 @@
 ### Editors
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Visual Studio](http://img.shields.io/badge/-visual%20studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=ffffff)
-![Intellij](http://img.shields.io/badge/-intellij%20idea-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![Visual Studio](http://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=ffffff)
+![Intellij](http://img.shields.io/badge/-Intellij%20Idea-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
 ## &#x1f4c8; Statistiche Github
 
